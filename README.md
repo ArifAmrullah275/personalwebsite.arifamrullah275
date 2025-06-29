@@ -17,6 +17,25 @@ Webiste ini memiliki beberapa menu:
   2. Menu di halaman admin: Beranda, Kelola Artikel, Kelola Gallery, About, Pesan, dan Logout.
 
 
+**Fitur Baru yang saya Tambahkan**
+1. Register Pengunjung/Login Multiuser dan Hak Akses
+2. Komentar artikel di bagian detail Artikel
+3. Menu Kontak atau Buku Tamu
+4. Menu Pesan untuk menampilkan hasil dari kontak pengunjung
+5. Fitur Pencarian:
+   - Di Pencarian Artikel
+   - Di Pencarian Gallery
+6. Tampilan Dark mode dengan icon yang bulan sabit dan light mode dengan icon Matahari
+7. Kalender di bagian sidebar artikel yang menyesuaikan tanggal, bulan, dan tahun
+8. Jumlah Visitor pada bagian beranda
+9. Chatbot AI dengan nama Arif Chatbot AI yang ada di halaman Public dan satu di menu beranda
+10. CD/Audio untuk menampilkan suara music pada website
+11. Detai artikel dengan klik Baca Selengkapnya
+12. Memunculkan Gallery saat di klik dan close di bagian luar gallery atau di tombol close
+13. Auido otomatis pada Menu Beranda
+14. Tautan menuju menu Home pada menu Beranda 
+
+
 **Fitur - Fitur pada Webiste**
 
 **A. Fitur - Fitur pada Halaman Login Administrator**
@@ -50,6 +69,7 @@ Webiste ini memiliki beberapa menu:
    - Form login di beri efek blur transparan dengan birder melengkung menciptakan tampilan modern dan profesional.
 
 
+**_User Interface Halaman Public_**
 **B. Fitur - Fitur pada Halaman Artikel**
 1. **Logo & Judul Website**
    - Teks: Artikel | Arif Amrullah 275
@@ -205,8 +225,10 @@ Webiste ini memiliki beberapa menu:
 
 9. **Hamburger Menu**
     - Muncul Saat dalam tampilan mobile, dan memunculkan navigasi versi mobile.
+
    
 
+**_User Interface Halaman Admin_**
 **F. Fitur - Fitur pada Halaman Login**
 1. **Judul Halaman**
    - Beranda | Arif Amrullah 275
@@ -426,6 +448,9 @@ Webiste ini memiliki beberapa menu:
 5. **Tombol Back to Top**
    - muncul di bagian bawah sebelah kanan website, ketika website di scroll satu kali sentuhan
     - berfungsi untuk kembali ke bagian atas setelah scroll ke bawah
+  
+
+
 **Teknologi yang Digunakan**
 
 1. Bahasa Pemrogramman : PHP
@@ -433,4 +458,3 @@ Webiste ini memiliki beberapa menu:
 3. Frontend : Tailwind CSS, HTML
 4. Server Side : Apache/XAMPP
 5. Web Host : Infinity Free
-
