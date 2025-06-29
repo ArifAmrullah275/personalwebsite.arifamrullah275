@@ -12,7 +12,7 @@ Wesbite ini memiliki dua bagian utama:
   1. Halaman Publik, yang dapat diakses oleh semua pengunjung.
   2. Halaman Admin, yang hanya dapat diakses setelah login, digunakan untuk mengelola konten.
 
-Webiste ini memiliki beberapa meeni
+Webiste ini memiliki beberapa menu:
   1. Menu di halaman publik: Artikel, Gallery, About, Kontak, dan Login.
   2. Menu di halaman admin: Beranda, Kelola Artikel, Kelola Gallery, About, Pesan, dan Logout.
 
