@@ -524,30 +524,33 @@ Webiste ini memiliki beberapa menu:
 
 2. Chatbot AI dengan Nama Arif Chatbot AI
    ![Chatbot AI Dark Mode](https://github.com/user-attachments/assets/8858907d-004d-49e7-b0d2-8f8f80ef1fe3)
+   
    ![Chatbot AI Light Mode](https://github.com/user-attachments/assets/02478041-112c-4d45-98eb-43f477c3ffbb)
 
-3. Pencarian Artikel
+4. Pencarian Artikel
    ![Pencarian artikel](https://github.com/user-attachments/assets/eff13029-2bd1-4982-a85c-b2a7e87536fe)
 
-4. Komentar Artikel
+5. Komentar Artikel
    ![Artikel Komentar Dark Mode](https://github.com/user-attachments/assets/e69eaa7d-506a-44a5-87e6-66d349900f7c)
+   
    ![Artikel Komentar Light Mode](https://github.com/user-attachments/assets/b29bbd9e-5b51-48f6-b3d7-13d3a50e9cc3)
 
-5. Detail Artikel
+7. Detail Artikel
    ![Detail Artikel Dark Mode](https://github.com/user-attachments/assets/6957eab8-37f6-4914-a425-31761a19fb3d)
+   
    ![Detail Artikel Light Mode](https://github.com/user-attachments/assets/9f2354c6-a20f-4769-a433-649be83547af)
 
-6. Detail Gallery
+9. Detail Gallery
    ![Detail Gallery](https://github.com/user-attachments/assets/25094ccb-d1a1-4d20-9bf3-367bfa6ce11a)
 
-7. Audio Player
+10. Audio Player
    ![Audio](https://github.com/user-attachments/assets/9d907f5e-14e3-45a5-858b-a7d70a138daf)
 
-8. Hamburger Menu
+11. Hamburger Menu
    ![Hamburger menu saat mobile](https://github.com/user-attachments/assets/8fcc9f83-bf41-4a15-8d42-733317cb37eb)
 
-9. Pencarian Artikel
+12. Pencarian Artikel
    ![Pencarian artikel](https://github.com/user-attachments/assets/c9726319-f8f8-475f-a073-c36f0bc3758a)
 
-10. Pencarian Gallery
+13. Pencarian Gallery
     ![Pencarian Gallery](https://github.com/user-attachments/assets/b0484e58-da25-4066-97ab-7b352ac71e1b)
