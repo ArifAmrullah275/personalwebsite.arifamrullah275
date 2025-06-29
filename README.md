@@ -45,6 +45,8 @@ Webiste ini memiliki beberapa menu:
 **Fitur - Fitur pada Webiste**
 
 **A. Fitur - Fitur pada Halaman Login Administrator**
+![Login Administrator](https://github.com/user-attachments/assets/64b25ca0-d536-48b4-bb95-0c35396ae256)
+
 1. **Logo Website**
    - Terletak di Bagian atas form login.
    - Berisi lingkaran dengan tulisan "ARIF AMRULLAH" dan inisial "AA" di tengahnya.
