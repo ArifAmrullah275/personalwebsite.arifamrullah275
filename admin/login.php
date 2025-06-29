@@ -21,7 +21,7 @@ require_once("../koneksi.php");
 
     <!-- Logo transparan di atas -->
     <div class="absolute -top-13 left-1/2 transform -translate-x-1/2">
-        <img src="Logo.png" alt="Logo" class="w-20 h-20 rounded-full shadow-lg bg-white bg-opacity-70 p-2">
+        <img src="img/Logo.png" alt="Logo" class="w-20 h-20 rounded-full shadow-lg bg-white bg-opacity-70 p-2">
     </div>
 
     <h2 class="text-2xl font-bold text-center text-green-700 mt-20 mb-6">Login Administrator</h2>
