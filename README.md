@@ -6,7 +6,7 @@ Personal Website Muhammad Arif Amrullah with user PHP, Database My SQL, HTML, da
 Studi kasus ini bertujuan untuk membangun sebuah aplikasi web personal yang bersifat dinamis, di mana pemiliki web dapat mengelola konten secara mandiri melalui halaman admin. Aplikasi dikembangkan menggunakan PHP dan menyimpan data menggunakan database MySQL. Tampilan antarmuka dirancang menggunakan Tailwind CSS agar responsif, modern, dan mudah dikustomisasi.
 
 **Deskripsi Website**
-Website ini milik Muhammad Arif Amrullah yang merupakan mahasiswa Sistem Informasi Fakultas Ilmu Komputer Universitas Subang yang dikembangkan dengan menggunakan bahasa pemrogramman PHP, penyimpanan database menggunakan MySQL, Kustomisasi menggunakan Tailwind CSS.
+Website ini milik Muhammad Arif Amrullah yang merupakan mahasiswa Sistem Informasi Fakultas Ilmu Komputer Universitas Subang yang dikembangkan dengan menggunakan bahasa pemrogramman PHP, penyimpanan database menggunakan MySQL, Fronend menggunakan HTML, dan Kustomisasi menggunakan Tailwind CSS.
 
 Wesbite ini memiliki dua bagian utama:
   1. Halaman Publik, yang dapat diakses oleh semua pengunjung.
